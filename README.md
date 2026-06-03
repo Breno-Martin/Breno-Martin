@@ -6,9 +6,9 @@
 
 - 🎓 Estudando **Ciência de Dados / IA** — explorando desde fundamentos estatísticos até deep learning
 - 🔍 Interesses: Machine Learning, análise exploratória de dados e visualização
-- 📚 Atualmente aprendendo: [Python, Machine Learning, Estatística Aplicada]
-- 💬 Aberto a colaborações em projetos de dados e aprendizado conjunto
-- 📫 Contato: [bretoledomartin@gmail.com]
+- 📚 Atualmente aprendendo: Python, Machine Learning, Estatística Aplicada
+- 💬 Aberto a colaborações em projetos e aprendizado conjunto
+- 📫 Contato: bretoledomartin@gmail.com
 
 ---
 
